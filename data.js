@@ -1,0 +1,51 @@
+export const products = [
+  {
+    id: "1",
+    title: "Adidas Logo Backpack",
+    categories: "Tennis",
+    extra: "bundle deal",
+    img: "https://assets.adidas.com/images/w_600,f_auto,q_auto/abe3a78ccfe34bacb6d0ad5600ee3f3a_9366/Adicolor_Backpack_Black_H35596_01_standard.jpg",
+  },
+  {
+    id: "2",
+    title: "Adidas Logo Backpack",
+    categories: "Tennis",
+    extra: "bundle deal",
+    img: "https://www.tradeinn.com/f/13766/137669775/adidas-daily-ii-backpack.jpg",
+  },
+  {
+    id: "3",
+    title: "Adidas Logo Backpack",
+    categories: "Tennis",
+    extra: "bundle deal",
+    img: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2b4681ea72ab4533b2a6ad9a0081b78d_9366/Adicolor_Backpack_Red_HE9737_01_standard.jpg",
+  },
+  {
+    id: "4",
+    title: "Adidas Logo Backpack",
+    categories: "Originals",
+    extra: "bundle deal",
+    img: "https://www.sportsdirect.com/images/products/71302640_l.jpg",
+  },
+  {
+    id: "5",
+    title: "Adidas Logo Backpack",
+    categories: "Gym & Training",
+    extra: "bundle deal",
+    img: "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a5893ab8626c4539aa3aabde00bbef0a_9366/Backpack_Black_GD1641_01_standard.jpg",
+  },
+  {
+    id: "6",
+    title: "Adidas Logo Backpack",
+    categories: "Originals",
+    extra: "bundle deal",
+    img: "https://www.tradeinn.com/f/13766/137669775/adidas-daily-ii-backpack.jpg",
+  },
+  {
+    id: "7",
+    title: "Adidas Logo Backpack",
+    categories: "Originals",
+    extra: "bundle deal",
+    img: "https://assets.adidas.com/images/w_600,f_auto,q_auto/c45479b251484031836aaca1002bea11_9366/Prime_Backpack_White_EX6951_01_standard.jpg",
+  },
+];
